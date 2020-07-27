@@ -1,6 +1,10 @@
-# new_app
+## task and notes App
 
-A new Flutter application.
+A new Flutter task and notes application layout with notched rectange and bottop app bar.
+
+##screenshots
+
+<img src="ssshots/Screenshot_2020-07-27-22-55-30-063_com.vinayk.new_app.jpg" width="250">              <img src="ssshots/Screenshot_2020-07-27-22-55-38-547_com.vinayk.new_app.jpg" width="250">                <img src="ssshots/Screenshot_2020-07-27-22-55-45-343_com.vinayk.new_app.jpg" width="250">
 
 ## Getting Started
 
